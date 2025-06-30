@@ -1,0 +1,13 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+dorable_3dprinter_api/__init__.py
+dorable_3dprinter_api/ams_interface.py
+dorable_3dprinter_api/camera_interface.py
+dorable_3dprinter_api/printer_interface.py
+dorable_3dprinter_api.egg-info/PKG-INFO
+dorable_3dprinter_api.egg-info/SOURCES.txt
+dorable_3dprinter_api.egg-info/dependency_links.txt
+dorable_3dprinter_api.egg-info/requires.txt
+dorable_3dprinter_api.egg-info/top_level.txt

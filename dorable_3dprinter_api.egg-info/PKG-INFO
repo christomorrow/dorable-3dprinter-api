@@ -1,0 +1,26 @@
+Metadata-Version: 2.4
+Name: dorable_3dprinter_api
+Version: 0.1.0
+Summary: Python API interface for 3D Printers
+Home-page: https://github.com/christomorrow/dorable-3dprinter-api
+Author: Your Name
+Author-email: Chris Tomorrow <sample@email.com>
+Project-URL: Homepage, https://github.com/christomorrow/dorable-3dprinter-api
+Project-URL: Docs, https://github.com/christomorrow/dorable-3dprinter-api/
+Project-URL: Issues, https://github.com/christomorrow/dorable-3dprinter-api/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: paho-mqtt>=2.0.0
+Requires-Dist: pillow>=11.0.0
+Dynamic: author
+Dynamic: home-page
+Dynamic: license-file
+Dynamic: requires-python
+
+# Dorable-3DPrinter-API
+
+API interface for any 3D printers that implements it.

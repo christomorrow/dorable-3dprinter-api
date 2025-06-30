@@ -2,7 +2,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='dorable-3dprinter-api',
+    name='dorable_3dprinter_api',
     version='0.1.0',
     packages=find_packages(),
     description='An abstract interface for 3D printer APIs',
